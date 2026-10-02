@@ -1,3 +1,5 @@
+> **Uyarı:** Bu içerik, SCÜ Şarkışla UBYO Web Programlama I dersi kapsamında tamamen eğitim amaçlı çevrilmiş ve derlenmiştir. Orijinal dokümantasyon kaynakları (MDN Web Docs, Vue.js, Three.js vb.) kendi orijinal lisanslarına (CC-BY-SA, MIT) tabidir. Bu çalışmanın hiçbir ticari amacı yoktur.
+
 # Soru-Cevap (QA) ve Adli Bilişim — Cevap Anahtarı
 
 **Ders:** Web Programlama I · **Takım:** Getting Started Modules — 1. Grup
