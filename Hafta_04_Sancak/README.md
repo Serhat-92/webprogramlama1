@@ -22,12 +22,16 @@
 ```
 Hafta_04_Sancak/
 ├── README.md
-├── 1-ceviri-slayt/   ← eklenecek (Samet)
+├── 1-ceviri-slayt/   ← Çeviri ve mimari notlar + sunumlar (Samet)
 ├── 2-teori/          ← eklenecek (Orkun)
 ├── 3-uygulama/       ← Canlı site kaynak kodu (index.html, images/, styles/, scripts/)
 └── 4-qa/             ← Soru havuzu ve cevap anahtarı
 ```
 
+- **1-ceviri-slayt/**:
+  - `Faz_1.docx` — 10 MDN makalesinin çevirisi ve "Arkada ne oluyor?" mimari notları
+  - `Faz_1_-_Sinif_Sunumu` (.pptx/.pdf) — amfide gösterilecek sunum, konuşmacı notlu
+  - `Faz_1_-_Aciklamali_Sunum` (.pptx/.pdf) — derin teknik arka plan sunumu
 - **3-uygulama/**: "Your first website" modülü kapsamında hazırlanan canlı sitenin kaynak kodları.
 - **4-qa/**: Ders içi soru-cevap ve adli bilişim bölümü için hazırlanan soru havuzu (`sorular.md`) ve cevap anahtarı (`cevap-anahtari.md`).
-- **1-ceviri-slayt/** ve **2-teori/**: Henüz eklenmedi, takım arkadaşları tarafından bu PR'a eklenecek.
+- **2-teori/**: Henüz eklenmedi. Teori sunumu (Orkun), Sınıf Sunumu üzerinden yapılır; konuşma notları slaytların konuşmacı notlarında yer alır.
