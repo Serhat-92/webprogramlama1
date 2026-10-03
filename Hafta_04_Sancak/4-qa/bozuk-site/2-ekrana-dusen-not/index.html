@@ -1,0 +1,50 @@
+<!doctype html>
+<!-- doctype: tarayıcıyı Standards Mode'da çalıştırır. Bu satır yoksa
+     tarayıcı eski sitelerin hatalarını taklit eden Quirks Mode'a geçer. -->
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>İlk Web Sitem</title>
+
+    <!-- rel = relationship (ilişki). preconnect: "Bu sunucudan birazdan bir
+         şey isteyeceğim, bağlantıyı şimdiden kur." -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- stylesheet: "Bu adresteki dosyayı indir ve sayfanın stili olarak kullan." -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="styles/style.css" rel="stylesheet" />
+
+    <script defer src="scripts/main.js"></script>
+    /* defer: JavaScript dosyasının HTML belgesi tamamen yüklendikten sonra
+    çalıştırılmasını sağlar. */
+  </head>
+  <body>
+    <h1>İlk Web Sitem</h1>
+
+    <img
+      src="images/kali-cubes.jpg"
+      alt="Koyu arka planda mavi küplerle çevrili Kali Linux logosu"
+    />
+
+    <p>
+      Bu site, MDN'nin "Your first website" dersini takip ederek hazırlandı. Üç
+      teknoloji birlikte çalışıyor:
+    </p>
+
+    <ul>
+      <li>HTML: sayfanın iskeleti</li>
+      <li>CSS: sayfanın görünümü</li>
+      <li>JavaScript: sayfanın davranışı</li>
+    </ul>
+
+    <p>Daha fazlası için resmi kaynak:</p>
+    <a href="https://developer.mozilla.org/tr/">MDN Web Docs</a>
+
+    <button>Kullanıcıyı değiştir</button>
+  </body>
+</html>

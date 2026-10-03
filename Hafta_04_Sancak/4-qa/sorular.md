@@ -14,6 +14,22 @@
 
 ---
 
+## Laboratuvarda sorulacak 5 soru
+
+Havuzdaki 13 sorudan, siteyi geliştirirken **gerçekten yaşadığımız** 5 hata seçildi. Her birinin `bozuk-site/` klasöründe ayrı bir sahnesi var. Sorular kolaydan zora sıralı: önce HTML ve CSS'in **sessizce** yok saydığı hatalar, sonra JavaScript'in **bağırdığı** hata, en son kodun kusursuz olduğu ama sitenin yine de bozuk çalıştığı durum.
+
+| Sıra | Havuzdaki soru | Konu | Sahne |
+|---|---|---|---|
+| 1 | Soru 3 ⭐ | Resim neden görünmüyor? | `bozuk-site/1-resim-gorunmuyor/` |
+| 2 | Soru 7 ⭐⭐ | Ekrana düşen not | `bozuk-site/2-ekrana-dusen-not/` |
+| 3 | Soru 8 ⭐⭐ | Sessiz hatalar | `bozuk-site/3-sessiz-hatalar/` |
+| 4 | Soru 12 ⭐⭐⭐ | Konsolda tek hata, kodda kaç hata? | `bozuk-site/4-tek-hata-kac-hata/` |
+| 5 | Soru 10 ⭐⭐⭐ | Bazen çalışan, bazen çalışmayan resim | `bozuk-site/5-bazen-calisan-resim/` |
+
+Diğer 8 soru, zaman kalırsa veya ek soru istenirse yedek olarak kullanılacak.
+
+---
+
 ## BÖLÜM A — Environment setup
 
 ### Soru 1 — Görünmeyen uzantı ⭐

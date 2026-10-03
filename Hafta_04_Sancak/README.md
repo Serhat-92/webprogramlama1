@@ -32,6 +32,7 @@ Hafta_04_Sancak/
   - `Faz_1.docx` — 10 MDN makalesinin çevirisi ve "Arkada ne oluyor?" mimari notları
   - `Faz_1_-_Sinif_Sunumu` (.pptx/.pdf) — amfide gösterilecek sunum, konuşmacı notlu
   - `Faz_1_-_Aciklamali_Sunum` (.pptx/.pdf) — derin teknik arka plan sunumu
-- **3-uygulama/**: "Your first website" modülü kapsamında hazırlanan canlı sitenin kaynak kodları.
+- **3-uygulama/**: "Your first website" modülü kapsamında hazırlanan canlı sitenin kaynak kodları. Resimler 1200px'e küçültüldü (2,4 MB → 204 KB).
 - **4-qa/**: Ders içi soru-cevap ve adli bilişim bölümü için hazırlanan soru havuzu (`sorular.md`) ve cevap anahtarı (`cevap-anahtari.md`).
+  - `bozuk-site/` — laboratuvarda soru-cevap için 5 sahne ("olay yeri"); her sahnede siteyi geliştirirken gerçekten yaşadığımız bir hata var. Çalıştırmak için: `cd bozuk-site && python3 -m http.server 8000`
 - **2-teori/**: Henüz eklenmedi. Teori sunumu (Orkun), Sınıf Sunumu üzerinden yapılır; konuşma notları slaytların konuşmacı notlarında yer alır.
