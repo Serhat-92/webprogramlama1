@@ -16,11 +16,6 @@ Depo **konu bazlı** klasörlerden oluşur. Her konu klasöründe **4 içerik t�
 web-programlama1/
 │
 ├── README.md                        ← bu dosya
-├── _sablonlar/                      ← boş şablonlar (kopyalayıp kullan)
-│   ├── ceviri-sablon.md
-│   ├── sunum-sablon.pdf
-│   ├── uygulama-sablon/
-│   └── soru-cevap-sablon.md
 │
 ├── 01-web-temelleri/                ← KONU 1
 │   ├── ceviri/
